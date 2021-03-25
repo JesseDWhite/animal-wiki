@@ -1,3 +1,9 @@
-.reptile-showing {
+/* .reptile-showing {
     display: none;
+} */
+.reptile-showing {
+background-color: red;
+}
+.reptile-hidden {
+  display: none;
 }

@@ -16,4 +16,20 @@
 //         $(".insects-hidden").toggle();
 //     });
 // });
+//})
+
+// $(document).ready(function () {
+//     $("#reptile").click(function () {
+//         $("body").removeClass()
+//         $("div.reptile-showing").addClass(".reptile-showing")
+//         $("div.reptile-hidden").addClass(".reptile-hidden")
+//     })
+// })
+
+
+$(document).ready(function () {
+    if ("#reptiles").click() { return "Reptiles = cool" }
+      else {
+        $("body").addClass(".reptile-hidden")
+    })
 })
